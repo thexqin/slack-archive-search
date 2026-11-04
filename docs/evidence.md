@@ -53,7 +53,7 @@ tests/test_slack_routing.py::test_data_with_angle_brackets_is_escaped PASSED
 ## 2. Measured build (2026-11-03)
 **Crawl:** 17 of 17 shares reachable.
 
-| | |
+| Crawl | Result |
 |---|---:|
 | Top-level folders | 1,281 |
 | Folders | 373,833 |
@@ -64,7 +64,7 @@ tests/test_slack_routing.py::test_data_with_angle_brackets_is_escaped PASSED
 
 **Build:** 76 s; knowledge base 28.6 MB.
 
-| | |
+| Build | Result |
 |---|---:|
 | Searchable folders | 1,592 (321 found inside container folders) |
 | Folders linked to projects | 699 → 359 projects |

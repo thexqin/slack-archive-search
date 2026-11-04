@@ -7,7 +7,7 @@ I built it for the ~50 people in my office. Version 1 was mine alone: four weeks
 > This repository is a write-up, not the code. The bot runs on internal data, so the source stays private. Company names, server names, people and project names are removed or replaced with `[placeholders]`.
 
 ## At a glance
-| | |
+| Area | Detail |
 |---|---|
 | Users | ~50 staff, in Slack. Live since 2026-11-03: 62 requests from 7 people on day one |
 | Data | A hand-edited Access database (~570 projects, ~200 fields each) and a crawl of 17 network shares |
